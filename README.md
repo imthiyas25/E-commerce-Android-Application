@@ -13,3 +13,21 @@ Add to cart
 buy product
       
 Add product
+
+Usage
+Explain how to use your e-commerce app. Provide examples, screenshots, or a step-by-step guide if necessary.
+
+Configuration
+Describe how to configure the app, including any environment variables, database setup, or external services integration.
+
+Contributing
+If you want to contribute to the project, provide guidelines on how to do so. Include information about the development workflow, coding standards, and how to submit pull requests.
+
+License
+This project is licensed under the [License Name] - see the LICENSE file for details.
+
+vbnet
+Copy code
+
+Remember to replace `[License Name]` with the actual license your project uses, and customize the sections to match your e-commerce app's specifics. Additionally, consider adding information about the technologies and frameworks you used, troubleshooting tips, and any other relevant details.
+
